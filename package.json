@@ -36,7 +36,7 @@
     "lodash": "^4.17.5",
     "memory-fs": "^0.4.1",
     "moment": "^2.22.0",
-    "node-sass": "^4.8.3",
+    "node-sass": "^4.13.1",
     "opn": "^5.3.0",
     "portal-vue": "^2.1.5",
     "prompt-promise": "^1.0.3",
